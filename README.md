@@ -1,3 +1,5 @@
+**中文** | [English](README_EN.md)
+
 ### 曾田力 · Tianli
 
 全栈工程师，做的东西自己每天在用：iPhone / macOS 原生 app、Python 后端与 LLM agent、Next.js 站点、自己运维的 VPS。水利工程师出身，所以 agent 和计算器都长在水利这个领域上。
